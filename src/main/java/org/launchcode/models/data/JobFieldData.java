@@ -1,7 +1,8 @@
 package org.launchcode.models.data;
 
-import org.launchcode.models.Job;
+import org.launchcode.models.CoreCompetency;
 import org.launchcode.models.JobField;
+import org.launchcode.models.PositionType;
 
 import java.util.ArrayList;
 
